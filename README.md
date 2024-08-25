@@ -3,9 +3,12 @@
 **ID:** CT6WDS1663 <br />
 **Domain:** Web Development <br />
 **Duration:** August 10 to September 25 <br />
-![Uploading image.png…]()
+
 
 ## Nike Store E-Commerce Website
+
+![image](https://github.com/user-attachments/assets/bb58689d-4cc8-400c-b580-6f45b4007d95)
+
 ### Overview
 This project is a fully functional e-commerce website for a Nike Store, designed to showcase a range of Nike sneakers. It features a modern, responsive design and includes a variety of functionalities such as a dynamic product slider, detailed product pages, and a shopping cart with payment options.
 
