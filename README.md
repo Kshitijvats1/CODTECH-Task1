@@ -18,14 +18,12 @@ Features Section: Highlights benefits such as free shipping, easy returns, gift 
 Gallery and New Arrivals: Sections for promotional content and seasonal collections.
 Footer: Contains links to company information, useful links, product categories, and social media icons.
 ## Technologies Used
-HTML5: For structuring the content of the website.
-CSS3: For styling the website, including responsive design with media queries.
-JavaScript: For interactive features such as the slider and dynamic content updates.
-Getting Started
-To get a local copy of the project up and running, follow these instructions:
+HTML5: For structuring the content of the website. <br />
+CSS3: For styling the website, including responsive design with media queries.<br />
+JavaScript: For interactive features such as the slider and dynamic content updates.<br />
 
 ### Usage
-View Products: Browse through different Nike sneaker products in the slider.
-Search: Use the search bar to find specific products.
-Select and Customize: Choose different colors and sizes for the products.
-Checkout: Add products to the cart and proceed with the checkout process.
+View Products: Browse through different Nike sneaker products in the slider. <br />
+Search: Use the search bar to find specific products. <br />
+Select and Customize: Choose different colors and sizes for the products. <br />
+Checkout: Add products to the cart and proceed with the checkout process. <br />
