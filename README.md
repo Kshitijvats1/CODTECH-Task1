@@ -1,8 +1,8 @@
-**Name**: Kshitij Vats
-**Company**: CODTECH IT SOLUTIONS
-**ID:** CT6WDS1663
-**Domain:** Web Development
-**Duration:** August 10 to September 25
+**Name**: Kshitij Vats <br />
+**Company**: CODTECH IT SOLUTIONS <br />
+**ID:** CT6WDS1663 <br />
+**Domain:** Web Development <br />
+**Duration:** August 10 to September 25 <br />
 
 ## Nike Store E-Commerce Website
 ### Overview
