@@ -6,7 +6,9 @@
 
 
 ## Nike Store E-Commerce Website
-
+![Screenshot 2024-08-25 151336](https://github.com/user-attachments/assets/4fb67c88-9e83-40f4-b368-4184d16c1407)
+![Screenshot 2024-08-25 151501](https://github.com/user-attachments/assets/65829d25-fd34-46dd-81d0-226cbe35b2ce)
+![Screenshot 2024-08-25 151535](https://github.com/user-attachments/assets/e8077955-2732-4cc9-a830-46e7b6b42ccd)
 ![image](https://github.com/user-attachments/assets/bb58689d-4cc8-400c-b580-6f45b4007d95)
 
 ### Overview
