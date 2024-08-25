@@ -3,6 +3,7 @@
 **ID:** CT6WDS1663 <br />
 **Domain:** Web Development <br />
 **Duration:** August 10 to September 25 <br />
+![Uploading image.png…]()
 
 ## Nike Store E-Commerce Website
 ### Overview
