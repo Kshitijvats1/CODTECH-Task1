@@ -1,14 +1,14 @@
-**Name:** Kshitij Vats
-**Company:** CODTECH IT SOLUTIONS
-**ID:** CT6WDS1663
-**Domain:** Web Development
-**Duration:** August 10 to September 25
+Name: Kshitij Vats
+Company: CODTECH IT SOLUTIONS
+ID: CT6WDS1663
+Domain: Web Development
+Duration: August 10 to September 25
 
-##Nike Store E-Commerce Website
-###Overview
+Nike Store E-Commerce Website
+Overview
 This project is a fully functional e-commerce website for a Nike Store, designed to showcase a range of Nike sneakers. It features a modern, responsive design and includes a variety of functionalities such as a dynamic product slider, detailed product pages, and a shopping cart with payment options.
 
-###Features
+Features
 Responsive Design: The website adjusts seamlessly across various devices and screen sizes.
 Product Slider: A dynamic slider showcases different Nike sneakers, with smooth transitions between slides.
 Product Details: Each product features images, titles, prices, descriptions, color options, and sizes.
@@ -24,8 +24,17 @@ JavaScript: For interactive features such as the slider and dynamic content upda
 Getting Started
 To get a local copy of the project up and running, follow these instructions:
 
-
-###Usage
+Clone the Repository
+bash
+Copy code
+git clone https://github.com/yourusername/nike-store.git
+Navigate to the Project Directory
+bash
+Copy code
+cd nike-store
+Open the Project
+Open index.html in your preferred web browser.
+Usage
 View Products: Browse through different Nike sneaker products in the slider.
 Search: Use the search bar to find specific products.
 Select and Customize: Choose different colors and sizes for the products.
