@@ -1,10 +1,3 @@
-**Name**: Kshitij Vats <br />
-**Company**: CODTECH IT SOLUTIONS <br />
-**ID:** CT6WDS1663 <br />
-**Domain:** Web Development <br />
-**Duration:** August 10 to September 25 <br />
-**Mentor Name:** Muzammil ahmed <br />
-
 
 ## Nike Store E-Commerce Website
 ![Screenshot 2024-08-25 151336](https://github.com/user-attachments/assets/4fb67c88-9e83-40f4-b368-4184d16c1407)
